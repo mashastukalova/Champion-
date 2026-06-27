@@ -6,6 +6,8 @@ import (
 
 	"github.com/Yandex-Practicum/tracker/internal/daysteps"
 	"github.com/Yandex-Practicum/tracker/internal/spentcalories"
+	//"github.com/mashastukalova/Champion/internal/daysteps"
+	//"github.com/mashastukalova/Champion/internal/spentcalories"
 )
 
 func main() {
